@@ -1,4 +1,4 @@
-````markdown
+
 # UserSpectre - Username Recon Tool
 
 ![UserSpectre](https://img.shields.io/badge/python-3.6%2B-blue)
@@ -27,7 +27,7 @@ UserSpectre is a fast and concurrent username reconnaissance tool written in Pyt
 
   ```bash
   pip install -r requirements.txt
-````
+```
 
 * The `requirements.txt` should contain:
 
