@@ -128,7 +128,7 @@ bc1qlpw590fkykfdd9v92g9snfmx8hc8vwxvkz5npm
 ```
 
 
-
+```
 
 ## Contributing
 
@@ -143,12 +143,8 @@ This project is for educational and authorized security testing only.
 Do not use for unauthorized scanning or attacks.
 
 ---
+```
 
 *Happy Reconnaissance!*
 
-```
-
----
-
-If you want, I can also help you generate the actual `requirements.txt` file content or anything else!
 ```
